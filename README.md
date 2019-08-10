@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Very basic excercise in Python
+* Click links below to open Jupyter notebooks
+* Run python code by Shift+Enter
+* Correct the code
+
+
 
 You can use the [editor on GitHub](https://github.com/yuval-harpaz/pyxercize/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
