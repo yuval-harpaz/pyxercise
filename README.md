@@ -5,4 +5,6 @@
 
 
 
-1. Loops [loop1](https://mybinder.org/v2/gh/yuval-harpaz/pyxercise/master?filepath=loop1.ipynb)
+1. [loop1](https://mybinder.org/v2/gh/yuval-harpaz/pyxercise/master?filepath=loop1.ipynb)
+2. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yuval-harpaz/pyxercise/master?filepath=loop2.ipynb)
+3. 
