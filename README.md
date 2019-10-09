@@ -10,3 +10,5 @@
 2. loop2: [preview](https://nbviewer.jupyter.org/github/yuval-harpaz/pyxercise/blob/master/loop2.ipynb) or [interactive](https://mybinder.org/v2/gh/yuval-harpaz/pyxercise/master?filepath=loop2.ipynb)
 3. images1: [preview](https://nbviewer.jupyter.org/github/yuval-harpaz/pyxercise/blob/master/images1.ipynb)
 4. words game: [preview](https://nbviewer.jupyter.org/github/yuval-harpaz/pyxercise/blob/master/wordsgame.ipynb)
+
+[webpage](https://yuval-harpaz.github.io/pyxercise/)
