@@ -2,7 +2,7 @@
 * Click links below to open [Jupyter](https://jupyter.org/) notebooks
 * When interactive mode is available you can edit and run the code in your web browser
 * When only  preview is available you can copy - paste code into a python terminal, or better still, download and open the notebook on your machine.
-* Python 3 supported, got to get going, right?
+* From item 3 and on the code only compatible with python3. You have to have some libraries such as matplotlib and Pillow.
 
 
 
